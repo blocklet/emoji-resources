@@ -1,0 +1,43 @@
+{
+  "did": "z2qZxatN826CPKVvt4Dwfx4J83tXXhyzKNQkv",
+  "name": "z2qZxatN826CPKVvt4Dwfx4J83tXXhyzKNQkv",
+  "title": "蘑菇头表情包",
+  "description": "包含几十张蘑菇头表情",
+  "version": "1.0.0",
+  "logo": "logo.jpeg",
+  "resources": [
+    "/resource/export.imgpack"
+  ],
+  "components": [],
+  "files": [
+    "screenshots"
+  ],
+  "screenshots": [],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qZxatN826CPKVvt4Dwfx4J83tXXhyzKNQkv-1.0.0.tgz",
+    "integrity": "sha512-a9fGmZ5tD/PvMb8+nLZEAV5BIpODidJH8Wpy0aZkMkjAU2qj+JmhoI5Vw85VxcMEmDwdAzC7Ms/dWhUk/N3UuA==",
+    "size": 1870814
+  }
+}

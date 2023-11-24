@@ -1,0 +1,43 @@
+{
+  "did": "z2qaBibdNRccCTbQmTSdzJRfk53F3CJooqphs",
+  "name": "z2qaBibdNRccCTbQmTSdzJRfk53F3CJooqphs",
+  "title": "IOS Emoji",
+  "description": "Emoji in iOS",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "resources": [
+    "/resource/export.imgpack"
+  ],
+  "components": [],
+  "files": [
+    "screenshots"
+  ],
+  "screenshots": [],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qaBibdNRccCTbQmTSdzJRfk53F3CJooqphs-1.0.0.tgz",
+    "integrity": "sha512-u7Irt8Fa+J6D3V9ZHewFHQOyBXZ8YSDzZ6+8N2I8qNmIR2TgUOvq55wIx6Unkl+LXJ76Pfp4JfbgR6bJnF522g==",
+    "size": 35310880
+  }
+}
