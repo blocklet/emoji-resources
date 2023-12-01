@@ -1,6 +1,6 @@
 {
-  "did": "z2qaBibdNRccCTbQmTSdzJRfk53F3CJooqphs",
-  "name": "z2qaBibdNRccCTbQmTSdzJRfk53F3CJooqphs",
+  "did": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe",
+  "name": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe",
   "title": "IOS Emoji",
   "description": "Emoji in iOS",
   "version": "1.0.0",
@@ -9,16 +9,12 @@
     "/resource/export.imgpack"
   ],
   "components": [],
-  "files": [
-    "screenshots"
-  ],
   "screenshots": [],
   "specVersion": "1.0.0",
   "community": "",
   "documentation": "",
   "homepage": "",
   "license": "",
-  "nftFactory": "",
   "payment": {
     "price": [],
     "share": []
@@ -34,10 +30,14 @@
   },
   "interfaces": [],
   "environments": [],
-  "capabilities": {},
+  "capabilities": {
+    "navigation": true
+  },
+  "gitHash": "de4490f92ec9405003bc08bed7542f26e725560e",
+  "nftFactory": "",
   "dist": {
-    "tarball": "z2qaBibdNRccCTbQmTSdzJRfk53F3CJooqphs-1.0.0.tgz",
-    "integrity": "sha512-u7Irt8Fa+J6D3V9ZHewFHQOyBXZ8YSDzZ6+8N2I8qNmIR2TgUOvq55wIx6Unkl+LXJ76Pfp4JfbgR6bJnF522g==",
-    "size": 35310880
+    "tarball": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe-1.0.0.tgz",
+    "integrity": "sha512-+R8DPmIWhVOLX+dero79PpNiMYBK2pTGYMHv/54EX+mcez3sDIXNqRLb9duveSgSYkKbd8oARsXHXYY+N1V1mw==",
+    "size": 35316545
   }
 }
