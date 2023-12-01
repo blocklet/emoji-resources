@@ -2,8 +2,8 @@
   "did": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe",
   "name": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe",
   "title": "IOS Emoji",
-  "description": "Emoji in iOS",
-  "version": "1.0.0",
+  "description": "Include 230 iOS emoji",
+  "version": "1.0.1",
   "logo": "logo.png",
   "resources": [
     "/resource/export.imgpack"
@@ -33,11 +33,11 @@
   "capabilities": {
     "navigation": true
   },
-  "gitHash": "de4490f92ec9405003bc08bed7542f26e725560e",
+  "gitHash": "d23355b0c9e4f313de49bd454d3b3056d7e9c2ba",
   "nftFactory": "",
   "dist": {
-    "tarball": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe-1.0.0.tgz",
-    "integrity": "sha512-+R8DPmIWhVOLX+dero79PpNiMYBK2pTGYMHv/54EX+mcez3sDIXNqRLb9duveSgSYkKbd8oARsXHXYY+N1V1mw==",
-    "size": 35316545
+    "tarball": "z2qaBeRQCGmia93jNAtcXMuADfgLavjN1c3Qe-1.0.1.tgz",
+    "integrity": "sha512-3pzOGyHOJRUfDKW6OIxLCkpMy/7K9qbzc9W1rj7u5q7D7UqxOROxQThbU1AWx9EjLKlcHjn9xRgPyAFT4w1mpQ==",
+    "size": 35316557
   }
 }
