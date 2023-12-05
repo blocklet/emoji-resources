@@ -1,0 +1,41 @@
+{
+  "did": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY",
+  "name": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY",
+  "title": "MyMfers",
+  "description": "The cc0 NFT project of MyMfers",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "resources": [
+    "/resource/export.blender"
+  ],
+  "components": [],
+  "files": [],
+  "screenshots": [],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY-1.0.0.tgz",
+    "integrity": "sha512-VncUCsSSFL4CGLJ88YddVbFpbQb7wTNFTLAGA3oiBY/6Z4JRMWxTQWddffvaVNoz5252xjZf3ZCaSuKWW9UrDg==",
+    "size": 6947340
+  }
+}

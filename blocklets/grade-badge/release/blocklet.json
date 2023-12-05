@@ -1,0 +1,41 @@
+{
+  "did": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m",
+  "name": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m",
+  "title": "Grade Badge",
+  "description": "Grade Badge resource blocklet for using in Image Bin",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "resources": [
+    "/resource/export.imgpack"
+  ],
+  "components": [],
+  "files": [],
+  "screenshots": [],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m-1.0.0.tgz",
+    "integrity": "sha512-+M4t3O+yqJrDHSeAH2XuMV0l0b7AsQFv2Yh2156nzxnAdE3m7E48ytVp0fwq6pIyDnXO9u4km4uNakA5I4DZyA==",
+    "size": 2251383
+  }
+}
