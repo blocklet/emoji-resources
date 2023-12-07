@@ -1,0 +1,12 @@
+{
+  "name": "season-girl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "rm -rf .blocklet && blocklet bundle --create-release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
