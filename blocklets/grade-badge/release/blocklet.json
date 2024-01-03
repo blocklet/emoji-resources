@@ -3,11 +3,17 @@
   "name": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m",
   "title": "Grade Badge",
   "description": "Grade Badge resource blocklet for using in Image Bin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "logo": "logo.png",
-  "resources": [
-    "/resource/export.imgpack"
-  ],
+  "resource": {
+    "bundles": [
+      {
+        "did": "z8ia1mAXo8ZE7ytGF36L5uBf9kD2kenhqFGp9",
+        "type": "imgpack",
+        "public": true
+      }
+    ]
+  },
   "components": [],
   "files": [],
   "screenshots": [],
@@ -34,8 +40,8 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m-1.0.0.tgz",
-    "integrity": "sha512-+M4t3O+yqJrDHSeAH2XuMV0l0b7AsQFv2Yh2156nzxnAdE3m7E48ytVp0fwq6pIyDnXO9u4km4uNakA5I4DZyA==",
-    "size": 2251383
+    "tarball": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m-1.0.2.tgz",
+    "integrity": "sha512-F1Dau6sQed6b9q30kQXEyVtbz+djGXuQ1vNLl07Qslki6atsowb0MpZ28LgJBAQce+z6sqjJuqAzMWL8gM60/Q==",
+    "size": 2259737
   }
 }
