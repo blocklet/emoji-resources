@@ -1,0 +1,12 @@
+{
+  "name": "arcblock-team-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "rm -rf .blocklet && mkdir .blocklet && cp -r ./release ./.blocklet"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

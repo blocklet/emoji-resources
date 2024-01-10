@@ -1,0 +1,51 @@
+{
+  "did": "z2qaB1YMj6uaSuei8UWt6r56zHagtqxLJNbwZ",
+  "name": "z2qaB1YMj6uaSuei8UWt6r56zHagtqxLJNbwZ",
+  "title": "ArcBlock Team Templates",
+  "description": "Discuss Kit Template for ArcBlock Team DAO",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "resource": {
+    "bundles": [
+      {
+        "did": "z8ia1WEiBZ7hxURf6LwH21Wpg99vophFwSJdu",
+        "type": "postpack",
+        "public": true
+      }
+    ]
+  },
+  "components": [],
+  "files": [
+    "screenshots"
+  ],
+  "screenshots": [
+    "7ce0981fa30e465420cf45030e761270.png"
+  ],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qaB1YMj6uaSuei8UWt6r56zHagtqxLJNbwZ-1.0.0.tgz",
+    "integrity": "sha512-EAki75IwP88YmA441OfI/9o4y2JkqBqmp1uhi8byBsjynt1FurrXecZ8dD5OsqoqKOkiNjKfTkwrNLEdCnQ62Q==",
+    "size": 218086
+  }
+}
