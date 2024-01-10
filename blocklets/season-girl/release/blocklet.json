@@ -1,22 +1,31 @@
 {
-  "did": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY",
-  "name": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY",
-  "title": "MyMfers",
-  "description": "The cc0 NFT project of MyMfers",
-  "version": "1.0.0",
+  "did": "z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT",
+  "name": "z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT",
+  "title": "Season Girl",
+  "description": "NFT Blender Template for Season Girl",
+  "version": "1.0.1",
   "logo": "logo.png",
-  "resources": [
-    "/resource/export.blender"
-  ],
+  "resource": {
+    "bundles": [
+      {
+        "did": "z8ia1ieY5KhEC4LMRETzS5nUwD7PvAND8qkfX",
+        "type": "blender",
+        "public": true
+      }
+    ]
+  },
   "components": [],
-  "files": [],
-  "screenshots": [],
-  "specVersion": "1.0.0",
+  "files": [
+    "screenshots"
+  ],
+  "screenshots": [
+    "238d567011e0ecaea9b4ca25c122d7ad.jpg"
+  ],
+  "specVersion": "1.2.8",
   "community": "",
   "documentation": "",
   "homepage": "",
   "license": "",
-  "nftFactory": "",
   "payment": {
     "price": [],
     "share": []
@@ -32,10 +41,14 @@
   },
   "interfaces": [],
   "environments": [],
-  "capabilities": {},
+  "capabilities": {
+    "navigation": true
+  },
+  "gitHash": "46872f8f479fe8de7061654818b30f6bbf11e82d",
+  "nftFactory": "",
   "dist": {
-    "tarball": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY-1.0.0.tgz",
-    "integrity": "sha512-VncUCsSSFL4CGLJ88YddVbFpbQb7wTNFTLAGA3oiBY/6Z4JRMWxTQWddffvaVNoz5252xjZf3ZCaSuKWW9UrDg==",
-    "size": 6947340
+    "tarball": "z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT-1.0.1.tgz",
+    "integrity": "sha512-s1wbbFab1GNbPJd60T/L/VyUHSbyvi5e+24STIXq3NiCJcZNjeOX6N3hQZIRkhyS+cwTZzs+s17KePjkw0Iidg==",
+    "size": 803677
   }
 }
