@@ -15,12 +15,8 @@
     ]
   },
   "components": [],
-  "files": [
-    "screenshots"
-  ],
-  "screenshots": [
-    "238d567011e0ecaea9b4ca25c122d7ad.jpg"
-  ],
+  "files": ["screenshots"],
+  "screenshots": ["238d567011e0ecaea9b4ca25c122d7ad.jpg"],
   "specVersion": "1.2.8",
   "community": "",
   "documentation": "",
