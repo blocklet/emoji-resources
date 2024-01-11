@@ -3,7 +3,7 @@
   "name": "z2qaB1YMj6uaSuei8UWt6r56zHagtqxLJNbwZ",
   "title": "ArcBlock Team Templates",
   "description": "Discuss Kit Template for ArcBlock Team DAO",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -15,12 +15,8 @@
     ]
   },
   "components": [],
-  "files": [
-    "screenshots"
-  ],
-  "screenshots": [
-    "7ce0981fa30e465420cf45030e761270.png"
-  ],
+  "files": ["screenshots"],
+  "screenshots": ["7ce0981fa30e465420cf45030e761270.png"],
   "specVersion": "1.0.0",
   "community": "",
   "documentation": "",

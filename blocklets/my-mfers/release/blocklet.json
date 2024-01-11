@@ -3,11 +3,17 @@
   "name": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY",
   "title": "MyMfers",
   "description": "The cc0 NFT project of MyMfers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "logo": "logo.png",
-  "resources": [
-    "/resource/export.blender"
-  ],
+  "resource": {
+    "bundles": [
+      {
+        "did": "z8ia1ieY5KhEC4LMRETzS5nUwD7PvAND8qkfX",
+        "type": "blender",
+        "public": true
+      }
+    ]
+  },
   "components": [],
   "files": [],
   "screenshots": [],
@@ -34,8 +40,8 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY-1.0.0.tgz",
-    "integrity": "sha512-VncUCsSSFL4CGLJ88YddVbFpbQb7wTNFTLAGA3oiBY/6Z4JRMWxTQWddffvaVNoz5252xjZf3ZCaSuKWW9UrDg==",
-    "size": 6947340
+    "tarball": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY-1.0.1.tgz",
+    "integrity": "sha512-OBECr+lYUBe5L53+LwI/1qtOborCY942Kq1Bqd7UnD4INMdNOl5kfEFW7AWEZJW1KL3BxgPV/yCkwZ4WKoeOqA==",
+    "size": 6949717
   }
 }
