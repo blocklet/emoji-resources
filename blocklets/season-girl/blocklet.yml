@@ -2,7 +2,7 @@ did: z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT
 name: z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT
 title: Season Girl
 description: NFT Blender Template for Season Girl
-version: 1.0.3
+version: 1.0.4
 logo: logo.png
 resource:
   bundles:
@@ -14,4 +14,4 @@ files:
   - screenshots
 screenshots:
   - 238d567011e0ecaea9b4ca25c122d7ad.jpg
-specVersion: 1.2.8
+specVersion: 1.0.0
