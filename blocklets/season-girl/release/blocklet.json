@@ -3,7 +3,7 @@
   "name": "z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT",
   "title": "Season Girl",
   "description": "NFT Blender Template for Season Girl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -43,7 +43,7 @@
   "gitHash": "46872f8f479fe8de7061654818b30f6bbf11e82d",
   "nftFactory": "",
   "dist": {
-    "tarball": "z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT-1.0.2.tgz",
+    "tarball": "z2qZxsMzRadt8aTPVFUF5SFYZ1JD52rCttgoT-1.0.3.tgz",
     "integrity": "sha512-s1wbbFab1GNbPJd60T/L/VyUHSbyvi5e+24STIXq3NiCJcZNjeOX6N3hQZIRkhyS+cwTZzs+s17KePjkw0Iidg==",
     "size": 803677
   }
