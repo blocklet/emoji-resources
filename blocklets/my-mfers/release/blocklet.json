@@ -3,7 +3,7 @@
   "name": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY",
   "title": "MyMfers",
   "description": "The cc0 NFT project of MyMfers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -40,7 +40,7 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY-1.0.2.tgz",
+    "tarball": "z2qa7D8YBnbM1TxGFKm4RnNagT3nbkV6C95PY-1.0.3.tgz",
     "integrity": "sha512-OBECr+lYUBe5L53+LwI/1qtOborCY942Kq1Bqd7UnD4INMdNOl5kfEFW7AWEZJW1KL3BxgPV/yCkwZ4WKoeOqA==",
     "size": 6949717
   }
