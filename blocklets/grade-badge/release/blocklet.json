@@ -2,8 +2,8 @@
   "did": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m",
   "name": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m",
   "title": "Grade Badge",
-  "description": "Grade Badge resource blocklet for using in Image Bin",
-  "version": "1.0.2",
+  "description": "Grade Badge resource blocklet for using in Media Kit",
+  "version": "1.0.3",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -40,8 +40,8 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m-1.0.2.tgz",
-    "integrity": "sha512-F1Dau6sQed6b9q30kQXEyVtbz+djGXuQ1vNLl07Qslki6atsowb0MpZ28LgJBAQce+z6sqjJuqAzMWL8gM60/Q==",
-    "size": 2259737
+    "tarball": "z2qa9fKcSTv37QVxG9yForsqVbAcPMyUjBB9m-1.0.3.tgz",
+    "integrity": "sha512-7LHm0Mt+Z/KUsgmZI3KSF3ypMmtngKumKtzyD3DR3Iu5FJekhcFPli+WhBRIiou2hR2rndZuhwXS+RHu88qF+g==",
+    "size": 2252362
   }
 }
