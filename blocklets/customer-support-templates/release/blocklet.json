@@ -3,7 +3,7 @@
   "name": "z2qa5J8NDyN3LzoqhNXox9hLb7P2Uc3Bphvqd",
   "title": "Customer Support Templates",
   "description": "Discuss Kit Template for ArcBlock Community",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -40,8 +40,8 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qa5J8NDyN3LzoqhNXox9hLb7P2Uc3Bphvqd-1.0.1.tgz",
-    "integrity": "sha512-MpgGjKTUv8/RaEnmqMXc9qMeuiGtt3LCzrgcSgG3pE3DE588Y5Xc2LjPRGEmFTj2OY+SHFseAxQRX6HzSy2iTA==",
-    "size": 60398
+    "tarball": "z2qa5J8NDyN3LzoqhNXox9hLb7P2Uc3Bphvqd-1.0.2.tgz",
+    "integrity": "sha512-ztNdliaMiMuCS6PLlt8rrVzwz2m8E0GT5SF91toWYmzxU9gHxO00UQeOVYJMxH2Cpm3CCVLivLPXjyDqnHCIVw==",
+    "size": 60564
   }
 }
