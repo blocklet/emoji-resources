@@ -1,0 +1,47 @@
+{
+  "did": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D",
+  "name": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D",
+  "title": "AI Runtime",
+  "description": "AI Runtime pages & components",
+  "version": "1.0.30",
+  "logo": "logo.png",
+  "resource": {
+    "bundles": [
+      {
+        "did": "z8iZiDFg3vkkrPwsiba1TLXy3H9XHzFERsP8o",
+        "type": "page",
+        "public": true
+      }
+    ]
+  },
+  "components": [],
+  "files": [],
+  "screenshots": [],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D-1.0.30.tgz",
+    "integrity": "sha512-tj7tnBJJs070EZ+MW3TJb39cvgZX8TAWG3qJ7GfoBJNgbtbLAr3yntZfPHduOFnUh2c728/U173MyY4kbcREFw==",
+    "size": 1197419
+  }
+}
