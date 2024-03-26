@@ -1,0 +1,47 @@
+{
+  "did": "z2qZyjnsRffFtn2PDnDwDHTRbAu53RpKqDtFZ",
+  "name": "z2qZyjnsRffFtn2PDnDwDHTRbAu53RpKqDtFZ",
+  "title": "HongHong Simulator",
+  "description": "HongHong simulator inspired by https://hong.greatdk.com",
+  "version": "1.0.2",
+  "logo": "logo.png",
+  "resource": {
+    "bundles": [
+      {
+        "did": "z8iZpog7mcgcgBZzTiXJCWESvmnRrQmnd3XBB",
+        "type": "ai",
+        "public": true
+      }
+    ]
+  },
+  "components": [],
+  "files": [],
+  "screenshots": [],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "interfaces": [],
+  "environments": [],
+  "capabilities": {},
+  "dist": {
+    "tarball": "z2qZyjnsRffFtn2PDnDwDHTRbAu53RpKqDtFZ-1.0.2.tgz",
+    "integrity": "sha512-fqhChnHcHsbYqp2Ayf03E0UhoAPXrajcoQGEi5yV3qvFLNxJ/BbfszdhW3cP94uXPa2ulKsdpOVlNw27e+M/Fg==",
+    "size": 67357
+  }
+}
