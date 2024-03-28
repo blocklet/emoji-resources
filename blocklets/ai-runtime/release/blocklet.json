@@ -3,7 +3,7 @@
   "name": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D",
   "title": "AI Runtime",
   "description": "AI Runtime pages & components",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -40,8 +40,8 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D-1.0.34.tgz",
-    "integrity": "sha512-40Oam/h+n2gwx/TjKu8T4BO/ZWRqNHG6EUUZJ7WwiVn60Fx/UTtzYiaAe0xBDlSelltU004kAurhyUCk1qK6fA==",
-    "size": 1198012
+    "tarball": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D-1.0.35.tgz",
+    "integrity": "sha512-LZRUuIxBPs4tnJMdkTtKY/+zabfOFWzCjz4H7MWTOWazxfGIJ87qgEWGDRT6h/gs6QZU9vmcTedtp+XBXW/6NA==",
+    "size": 1198102
   }
 }
