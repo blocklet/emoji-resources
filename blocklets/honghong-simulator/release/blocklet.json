@@ -3,7 +3,7 @@
   "name": "z2qZyjnsRffFtn2PDnDwDHTRbAu53RpKqDtFZ",
   "title": "HongHong Simulator",
   "description": "HongHong simulator inspired by https://hong.greatdk.com",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "logo": "logo.png",
   "resource": {
     "bundles": [
@@ -40,8 +40,8 @@
   "environments": [],
   "capabilities": {},
   "dist": {
-    "tarball": "z2qZyjnsRffFtn2PDnDwDHTRbAu53RpKqDtFZ-1.0.2.tgz",
-    "integrity": "sha512-fqhChnHcHsbYqp2Ayf03E0UhoAPXrajcoQGEi5yV3qvFLNxJ/BbfszdhW3cP94uXPa2ulKsdpOVlNw27e+M/Fg==",
-    "size": 67357
+    "tarball": "z2qZyjnsRffFtn2PDnDwDHTRbAu53RpKqDtFZ-1.0.4.tgz",
+    "integrity": "sha512-DSMMEG7oegVNYdykghZ53oDj6xTSw+RQ3jPIO8+QcsL28DZJUJsVtrPmk+xesJD1F7xBcBe7/LuT/6bvA2NwuQ==",
+    "size": 130070
   }
 }
